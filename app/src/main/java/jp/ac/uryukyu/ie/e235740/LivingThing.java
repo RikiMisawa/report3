@@ -31,7 +31,6 @@ public class LivingThing {
     }
 
     
-
     public boolean isDead(){
         return dead;
     }
